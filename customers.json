@@ -1,0 +1,22 @@
+{
+   "customer1" : {
+      "name" : "andy",
+      "dateOfBirth" : "01-11-1970",
+      "sex" : "M",
+      "id": 1
+   },
+   
+   "customer2" : {
+      "name" : "johnson",
+      "password" : "01-11-1975",
+      "sex" : "M",
+      "id": 2
+   },
+   
+   "customer3" : {
+      "name" : "jessie",
+      "password" : "01-11-1980",
+      "sex" : "F",
+      "id": 3
+   }
+}

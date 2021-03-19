@@ -32,3 +32,8 @@ C:\Users\Your Name>npm install nodemailer
 node demo_nodemailer.js
 http://localhost:8080/ -> Send mail
 
+7. API List Customers
+node api_listcustomers.js
+http://localhost:8080/listCustomerss
+-> list all users in customers.json
+
