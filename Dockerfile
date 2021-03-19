@@ -5,4 +5,4 @@ WORKDIR $APP_HOME
 COPY ["./package.json", "./package-lock.json*", "./"]
 RUN npm install --production
 COPY . .
-CMD [ "node", "helloworld.js" ]
+CMD [ "node", "demo_random_image.js" ]
